@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 import { useShortcuts, clamp } from "@/hooks/use-shortcut"
 
 const IMAGES = [
-  "https://tomaslonnblad.github.io/2.jpg",
+  "https://tomaslonnblad.github.io/a(1).jpg",
   "https://tomaslonnblad.github.io/3.jpg",
   "https://tomaslonnblad.github.io/4.jpg",
   "https://tomaslonnblad.github.io/5.jpg",
